@@ -1,0 +1,2 @@
+# friendly-potato
+My project
